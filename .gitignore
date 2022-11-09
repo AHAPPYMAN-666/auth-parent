@@ -1,0 +1,7 @@
+# 项目排除路径
+/common/common-util/target/
+/common/service-util/target/
+/model/target/
+/service-system/target/
+/代码/2-前端代码/2-前端代码/前端代码/guigu-system-front/moduledemo/node_modules/
+/代码/2-前端代码/2-前端代码/前端代码/guigu-system-front/npmdemo/node_modules/
